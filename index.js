@@ -1,0 +1,17 @@
+console.log("Hello Winc Academy");
+let firstName = "Janneke";
+console.log(firstName);
+let firstNumber = 4;
+let secondNumber = 4;
+console.log(firstNumber + secondNumber);
+let thirdNumber = "4";
+let forthNumber = "4";
+console.log(thirdNumber + forthNumber);
+let fifthNumber = 6;
+let sixthNumber = 93;
+console.log(sixthNumber - fifthNumber);
+console.log(firstNumber * fifthNumber);
+console.log(sixthNumber / secondNumber);
+console.log(sixthNumber % firstNumber);
+let age = "twentyseven";
+console.log(age);
